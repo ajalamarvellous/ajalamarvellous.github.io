@@ -140,8 +140,8 @@ related_blog_posts:
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources: 
-  - name: hashnode.com
-    rss_url: https://tigerabrodi.hashnode.dev/rss.xml
+  # - name: hashnode.com
+  #   rss_url: https://tigerabrodi.hashnode.dev/rss.xml
     # https://madeofajala.hashnode.dev/rss.xml
   # - name: medium.com
   #   rss_url: https://medium.com/feed/@madeofajala
