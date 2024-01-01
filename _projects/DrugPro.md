@@ -23,7 +23,7 @@ DrugPro is a web-based supply chain analytics and forecasting tool designed with
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Homepage of the web platform.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -31,7 +31,7 @@ DrugPro is a web-based supply chain analytics and forecasting tool designed with
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Product trend over time.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -39,7 +39,7 @@ DrugPro is a web-based supply chain analytics and forecasting tool designed with
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Analysis of top selling products.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -48,7 +48,7 @@ DrugPro is a web-based supply chain analytics and forecasting tool designed with
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Comparism of sales trend of two different products.
 </div>
 
 
