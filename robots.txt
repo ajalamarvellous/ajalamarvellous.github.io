@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://ajalamarvellous.bio/sitemap.xml
+Sitemap: http://ajalamarvellous.github.io/sitemap.xml
