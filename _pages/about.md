@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Bowen University Teaching Hospital,</p>
-    <p> Oyo-Ilorin road, Ogbomoso, </p>
+    <p> Oyo - Ilorin road, Ogbomoso, </p>
     <p> Oyo State, Nigeria. </p>
 
 news: true  # includes a list of news items
