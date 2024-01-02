@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Machine learning engineer, a pharmacist and a researcher based in Nigeria.
-I recently graduated with a Bachelors Degree in Pharmacy from University of Lagos, Nigeria. I currently work as an intern pharmacist at Bowen University Teaching Hospital, Ogbomoso. Previously, I worked as cofounder, data scientist, Ops Lead at Lifebox Labs and a Machine learning engineer at Juicelife (previously Meuve Health) among others  
+I recently graduated with a Bachelors Degree in Pharmacy from University of Lagos, Nigeria. I currently work as an intern pharmacist at Bowen University Teaching Hospital, Ogbomoso. Previously, I worked at [Juicelife (previously Meuve Health)](https://juicelife.io) and [Lifebox Labs](https://lifebox.ng) 
 
 My primary research interest lies in application of artificial intelligence in drug discovery specifically in virtual screening and de novo drug design. However, I'm involved in efforts generally geared towards global health, public health and application of AI in healthcare also.
 
