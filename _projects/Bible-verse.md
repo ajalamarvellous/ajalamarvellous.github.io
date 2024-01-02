@@ -73,16 +73,3 @@ streamlit run src/web.py
 Voila, there you go, you have it running on your device
 
 You can read more about the <a href="https://github.com/ajalamarvellous/bibleverse">project</a> here and how to contribute if you're interested in.
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
