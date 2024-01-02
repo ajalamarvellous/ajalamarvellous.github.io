@@ -13,7 +13,14 @@ thumbnail: assets/img/9.jpg
 
 Sometimes, counting our blessings is all we need to remind ourselves how far we have come, that everything is not all gloom, everything is not all bad and by all means, we are miles away from where we started, maybe not at the destination yet but we far ahead of the starting point, and ladies and gentlemen, that is progress.
 
-{% twitter https://x.com/madeofAjala/status/1739584088233632095 %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Screenshot 2024-01-01 at 15.49.35 21.17.40.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    </div>
+<div class="caption">
+    A screenshot of the tweet accessible at https://x.com/madeofAjala/status/1739584088233632095
+</div>
 
 2023 was a solid year for me, but it took me writing out this thread on Twitter sometime last week for me to come to terms with how great it was. Here is the thing, I started this year on a great note and with high expectations. Finally, I was doing my dream job as a machine learning engineer at a new but awesome startup building a very nice product. The best part of it? My role was core machine learning, machine learning engineering and ops, just enough dose of what I like and enjoy doing, life was good bruh!! I think the peak was me attending Lagos Tech Expo and seeing the excitement and awe on people's faces using the product I've been building, it's like that moment when a mother finally meets the baby she has been carrying for months, the joy is incomprehensible.
 
