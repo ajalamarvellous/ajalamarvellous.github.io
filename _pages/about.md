@@ -26,4 +26,4 @@ My primary research interest lies in application of artificial intelligence in d
 
 In my spare time, you'll catch me writing. So I maintain a number of blogs on [Medium](https://madeofajala.medium.com), [Hashnode](https://madeofajala.hashnode.dev) and [Substack](https://the-continum.substack.com). I'm also a nature lover and I run a beautiful photography page of [Instagram](https://instagram.com/shotsbymarve) while pausing on my DJ and chef career.
 
-If you're interested in checking out my research, you can check out my [Google Scholar](https://scholar.google.com/marvellousajala) or if you're a recruiter, you can check out my CV [here](assets/pdf/Marvellous Ajala CombinedCV.pdf) 
+If you're interested in checking out my research, you can check out my [Google Scholar](https://scholar.google.com/marvellousajala) or if you're a recruiter, you can check out my CV [here](assets/pdf/CV-Marvellous-Ajala.pdf) 
