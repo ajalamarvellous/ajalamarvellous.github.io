@@ -2,9 +2,9 @@
 layout: post
 title:  "In Pursuit of Happiness"
 date: 2024-07-18 21:01:00
-description: yearly review 
-tags: review 
-categories: personal
+description: Perspective for the next one year or more 
+tags: personal 
+categories: review
 thumbnail: assets/img/IMG_4096.jpg
 ---
 

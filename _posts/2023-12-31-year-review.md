@@ -3,8 +3,8 @@ layout: post
 title:  "2023: Year of Wins and Near misses"
 date: 2023-12-31 21:01:00
 description: yearly review 
-tags: review 
-categories: personal
+tags: personal 
+categories: review
 thumbnail: assets/img/9.jpg
 ---
 
