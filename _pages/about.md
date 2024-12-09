@@ -6,7 +6,7 @@ subtitle: <a href='#'>CohereForAI, SisonkeBiotik</a>. Ogbomoso, Nigeria.
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Bowen University Teaching Hospital,</p>
@@ -27,7 +27,7 @@ My primary research interest lies in application of artificial intelligence in d
 
 In my spare time, you'll catch me writing. So I maintain a number of blogs on [Medium](https://madeofajala.medium.com), [Hashnode](https://madeofajala.hashnode.dev) and [Substack](https://the-continum.substack.com). I'm also a nature lover and I run a beautiful photography page of [Instagram](https://instagram.com/shotsbymarve).
 
-If you're interested in checking out my research, you can check out my [Google Scholar](https://scholar.google.com/marvellousajala) or if you're a recruiter, you can check out my CV [here](assets/pdf/CV-Marvellous-Ajala.pdf).
+If you're interested in checking out my research, you can check out my [Google Scholar](https://scholar.google.com/citations?user=67T6um4AAAAJ&hl=en) or if you're a recruiter, you can check out my CV [here](assets/pdf/CV-Marvellous-Ajala.pdf).
 
 > I'm currently looking for a new role though, so incase you're a hiring manager and just looking to hire one for your team or company, my expertise spans visualizations, building machine learning models, deploying and  maintaining models in production and monitoring (MLOPs), CV, LLMs and ML research, so I'll love to connect with you [email](mailto:ajalaoluwamayowa00@gmail.com).
 
