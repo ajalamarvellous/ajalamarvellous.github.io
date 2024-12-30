@@ -25,7 +25,7 @@ I recently graduated with a Bachelors Degree in Pharmacy from University of Lago
 
 My primary research interest lies in application of artificial intelligence in drug discovery specifically in virtual screening and de novo drug design. However, I'm involved in efforts generally geared towards global health, public health and application of AI in healthcare also. I was part of the organising committee for the [Data Science for Health](https://ro-ya-cv4africa.github.io/homepage/event_workshop.html) workshop at the just concluded Deep Learning Indaba, 2024.
 
-In my spare time, you'll catch me writing. So I maintain a number of blogs on [Medium](https://madeofajala.medium.com), [Hashnode](https://madeofajala.hashnode.dev) and [Substack](https://the-continum.substack.com). I'm also a nature lover and I run a beautiful photography page of [Instagram](https://instagram.com/shotsbymarve).
+In my spare time, you'll catch me writing. So I maintain a number of blogs on [Medium](https://madeofajala.medium.com), [Hashnode](https://madeofajala.hashnode.dev) and [Substack](https://the-continum.substack.com), I'm creating a centralised mailimg list to disseminate my essays, if you'll love to subscribe to the mailing list, please do so [here](blog/2024/mailing-list). I'm also a nature lover and I run a beautiful photography page of [Instagram](https://instagram.com/shotsbymarve).
 
 If you're interested in checking out my research, you can check out my [Google Scholar](https://scholar.google.com/citations?user=67T6um4AAAAJ&hl=en) or if you're a recruiter, you can check out my CV [here](assets/pdf/CV-Marvellous-Ajala.pdf).
 
