@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "When we do everything right and still fail"
+date: 2025-01-19 16:00:00
+description: Essay 
+tags: personal 
+categories: life
+thumbnail: assets/img/5b7395f312e44665a6cc9e0ed6e1b703.jpg
+---
+
+For some reason, I have found myself recently writing about failure a lot, not to assume I hold any authority in that regards (I mean who will even want that?), that’s not to say I also haven’t felt gut-wrenching effect of it, but because it is one of those things I just find myself thinking about. In case you missed it, in my previous article, I wrote about the “Lessons from failure” which you can read [here](https://www.ajalamarvellous.xyz/blog/2025/lessons-from-failure/). However, today I want to talk about something else, a particular form of thinking that I believe is commonplace but I do not believe it is true, and it is the idea that “if we do not get something we really desired (or failed at it), then we probably didn’t put in our very best”.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/5b7395f312e44665a6cc9e0ed6e1b703.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    </div>
+<div class="caption">
+    "Sometimes, we do everything right and still lose”
+</div>
+
+I first came across this quote some 3/4 years ago and it just stuck to my mind, maybe because of my personal experiences, maybe because it sounds antithetical to present common knowledge or saying that says if you didn’t get something you really wanted, it’s probably because you didn’t try enough or that wasn’t your “possibly best” self, and maybe that is true, maybe it isn’t actually your possibly best self, but the way the saying is used connotes that the  “possibly best” version of you was accessible at that point in time which for some reason you just didn’t leverage, and that my friend, is where I disagree.
+
+In this essay, I’ll try to explain why “we still lose sometimes after doing everything right” with 3 points and I will also attempt to explain this from 2 different point of view: community-wise and individual-wise.
+
+**Community-wise**: To understand why it is possible to do your possible best and still fail is to understand that, while maybe your overall competition in life is between the current version of you and the theoretical best version of you, it is also important to note that any fellowship, competition, graduate admission etc you will be making, is you competing with other people for that limited possible spots, which brings me to the first reason: **hypercompetition.** Apart from a very limited number of roles and opportunities where you are super early in the industry and the world does not know about or you fall into a category of some selectively protected roles and opportunities reserved for people and your affinity group, for most other opportunities, we are currently experiencing a form of hypercompetition, where for every limited opportunity, there is a large number of very qualified people all jostling for these limited opportunities with you and this is happening for 2 reasons: access to information and globalization. 
+
+With the growth of the internet and the rise of digital content creation, we have seen more people who previously were cut out from certain information needed for them to compete on a global scale for some kind of opportunities have access to these information, and with this access, you have more people becoming aware of not only the existence of these opportunities but also the requirements, profiles of previous winners etc and now more people putting in the work needed for them to also compete. The other reason is that with increased globalization, countries are now beginning to fight fiercely to attract the best talents possible, especially from regions which have a lot of talents but limited opportunities. This means pool for some of these opportunities have drastically increased in size leaving more people jostling for the same limited opportunities.
+
+The impact of this is that, it is now impossible for companies, schools, etc, to fairly evaluate all applications they receive and/or to give everyone truly deserving an opportunity the fair chance. So what does this mean? Because the pool of evenly qualified candidates is far greater than what most organizations can fairly access or take in, many talented people, truly deserving of the opportunity are denied such opportunities and friends, that sucks.
+
+However, beyond the community-wise hypercompetition, some individual-based factors also need to be considered. First is the individuality of each person’s life path and how the uniqueness of their life’s journey contribute to their personhood, and because of the sequential nature of life, there are some future experiences and encounters that contributes to your personal hypothetical best-version (this I define as the overall best version of you in your entire lifetime). So at the time of your making your application, there are some unique experiences, knowledge and interactions that your future self will have that could improve your chances getting the opportunity but which you currently do not have nor have access to. These experiences do not even refer to costly mistakes and whatnot, but sometimes mundane or random interactions, occurrences and things you probably have no control over. To put this into perspective, there are some roles you will apply for and you will be disqualified just based on the geographical information of where you are, coming from or born, that your future self that is naturalized or a permanent resident of that country will be accepted for with no other difference beyond that. But the point is, it doesn’t mean you didn’t put in your very best, the honest possible best you could at that point in time to have guaranteed yourself a better odd. When this is then combined with the hypercompetition earlier mentioned, it is easy to see why this is the case. 
+
+The other and final reason why I belief that it is possible to put your absolute best in something and still lose, also from the individual point of view, is that the opposite, suggests that we are supposed to win everything we put our absolute best in. This point of view is wrong simply because that is just not how life works. It does not matter who you are, who you parents are, where you are coming from, you just simply cannot have a 100% win ratio of every opportunity you apply for (except they were all carefully handed over to you, in which case, has been excluded from the point of this essay). Life just doesn’t work that way, failure is just an integral part of life as much as success is and we are all bound to experience both, no matter how good or exceptional we believe ourselves to be, we all experience the same thing and that is what makes life, life.
+
+In conclusion, while all these are logical explanations of why sometimes we fail after putting in our best, the summary is failure is never fun, it is never enjoyable and I’m also not an agent of doom, so just like the Bible puts it *“tears can last all night, but joy comes in the morning”.* Life might be hitting you hard on all sides and you feel life has just someway somehow conspired against you, my ultimate belief is this, “life is not unfair”, so it might seem like it is against you today, but give it long enough, the universe will conspire for your good too soon, you just need to stay alive and keep pushing, keep trying your best, because “it is who is dead, that has no hope anymore” and “even the wrong clock is right at least twice a day”.
+
+Shalom ✌🏾✌🏾✌🏾
