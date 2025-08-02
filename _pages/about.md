@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Magami Open Sciences Initiative</a>. Lagos, Nigeria.
+subtitle: <a href='https://magamios.org/'>Magami Open Sciences Initiative</a>. Lagos, Nigeria.
 
 profile:
   align: left
