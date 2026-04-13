@@ -5,9 +5,9 @@ permalink: /
 subtitle: <a href='https://magamios.org/'>Magami Open Sciences Initiative</a>. Lagos, Nigeria.
 
 profile:
-  align: left
+  align: right
   image: prof_pic2.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Ogbomoso | Lagos</p>
     <p>Nigeria. </p>
@@ -20,14 +20,13 @@ social: true  # includes social icons at the bottom of the page
 
 I am a <a href='#'><i>Machine learning engineer</i></a> , a <a href='#'><i>pharmacist</i></a> and a <a href='#'><i>researcher</i></a> based in Nigeria.
 
-I recently graduated with a Bachelors Degree in Pharmacy from University of Lagos, Nigeria. In the last year, I worked as an intern pharmacist at Bowen University Teaching Hospital, Ogbomoso. Previously, I worked at [Juicelife (previously Meuve Health)](https://www.juicelife.io), a Lagos-based AI startup using AI and computer vision to remotely track, evaluate and quantify workouts (exercises), Recop.it (<i>now defunct</i>), a social commerce platform and [Dryad Network](https://www.dryad.net) (collaboration with Omdena), a climatetech startup using AI and sensors to track wildfires in the Amazon. I've also worked with [Lifebox Labs](https://lifebox.ng), a lifesciences startup building digital therapeutics for hypertensive and diabetic patients in Lagos.
-Currently, I am building a non profit, open science research organisation [Magami Open Sciences Initiative](https://magamios.org) focused on collaborating with African researchers working on drug discovery projects using AI, capacity building and development of opensource AI tools. If you are interested in initiating a collaboration with us or just chat about what we are doing, please shoot me an email to Marvellous[at]magamios[dot]org.
+I recently graduated with a Bachelors Degree in Pharmacy from University of Lagos, Nigeria. In the last years, I have worked as a pharmacist (at University of Ilorin Teaching Hospital and Bowen University Teaching Hospital, Ogbomoso) and as a ML Enginner at [Juicelife (previously Meuve Health)](https://www.juicelife.io), a Lagos-based AI startup using AI and computer vision to remotely track, evaluate and quantify workouts (exercises), Recop.it (<i>now defunct</i>), a social commerce platform and [Dryad Network](https://www.dryad.net) (collaboration with Omdena), a climatetech startup using AI and sensors to track wildfires in the Amazon. I've also worked with [Lifebox Labs](https://lifebox.ng), a lifesciences startup building digital therapeutics for hypertensive and diabetic patients in Lagos.
+Currently, I am building a non profit, open science research organisation [Magami Open Sciences Initiative](https://magamios.org) focused on collaborating with African researchers working on drug discovery projects using AI, capacity building and development of opensource AI tools. If you are interested in initiating a collaboration with us or just chat about what we are doing, please shoot me an email to marvellous[at]magamios[dot]org.
 
-My primary research interest lies in application of artificial intelligence in drug discovery specifically in virtual screening and de novo drug design. However, I'm involved in efforts generally geared towards global health, public health and application of AI in healthcare also. I will be co-organising the [Data Science for Health](https://ro-ya-cv4africa.github.io/homepage/event_workshop.html) workshop at the upcoming Deep Learning Indaba, 2025 in Kigali, Rwanda.
+My primary research interest lies in application of artificial intelligence in drug discovery specifically in virtual screening and de novo drug design. However, I'm involved in efforts generally geared towards global health, public health and application of AI in healthcare also. I co-organise the [Data Science for Health](https://ro-ya-cv4africa.github.io/homepage/event_workshop.html) workshop at the Deep Learning Indaba, 2024 in Dakar, Senegal and 2025 in Kigali, Rwanda.
 
 In my spare time, you'll catch me writing. So I maintain a number of blogs on [Medium](https://madeofajala.medium.com), [Hashnode](https://madeofajala.hashnode.dev) and [Substack](https://the-continum.substack.com), I'm creating a centralised mailimg list to disseminate my essays, if you'll love to subscribe to the mailing list, please do so [here](blog/2024/mailing-list). I'm also a nature lover and I run a beautiful photography page of [Instagram](https://instagram.com/shotsbymarve).
 
 If you're interested in checking out my research, you can check out my [Google Scholar](https://scholar.google.com/citations?user=67T6um4AAAAJ&hl=en) or if you're a recruiter, you can check out my CV [here](assets/pdf/CV-Marvellous-Ajala.pdf).
 
-> I'm also currently open to new roles, so incase you're a hiring manager and just looking to hire one for your team or company, my expertise spans visualizations, building machine learning models, deploying and  maintaining models in production and monitoring (MLOPs), CV, LLMs and ML research, so I'll love to connect with you [email](mailto:hello@ajalamarvellous.xyz).
 
