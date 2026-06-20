@@ -5,27 +5,27 @@
 
 
 // Colors
-$red-color:           #FF3636 !default;
-$red-color-dark:      #B71C1C !default;
-$orange-color:        #F29105 !default;
-$blue-color:          #0076df !default;
-$blue-color-dark:     #00369f !default;
-$cyan-color:          #2698BA !default;
+$red-color:           #E57373 !default; // A softer red
+$red-color-dark:      #C62828 !default;
+$orange-color:        #FFB74D !default; // A softer orange
+$blue-color:          #64B5F6 !default; // A softer blue
+$blue-color-dark:     #1565C0 !default;
+$cyan-color:          #4DD0E1 !default; // A softer cyan
 $light-cyan-color:    lighten($cyan-color, 25%);
-$green-color:         #00ab37 !default;
-$green-color-lime:    #B7D12A !default;
-$green-color-dark:    #009f06 !default;
-$green-color-light:   #ddffdd !default;
-$green-color-bright:  #11D68B !default;
-$purple-color:        #B509AC !default;
+$green-color:         #81C784 !default; // A softer green
+$green-color-lime:    #DCE775 !default;
+$green-color-dark:    #388E3C !default;
+$green-color-light:   #E8F5E9 !default;
+$green-color-bright:  #A5D6A7 !default;
+$purple-color:        #BA68C8 !default; // A softer purple
 $light-purple-color:  lighten($purple-color, 25%);
-$pink-color:          #f92080 !default;
-$pink-color-light:    #ffdddd !default;
-$yellow-color:        #efcc00 !default;
+$pink-color:          #F06292 !default; // A softer pink
+$pink-color-light:    #F8BBD0 !default;
+$yellow-color:        #FFF176 !default; // A softer yellow
 
-$grey-color:          #828282 !default;
-$grey-color-light:    lighten($grey-color, 40%);
-$grey-color-dark:     #1C1C1D;
+$grey-color:          #666666 !default; // Medium Grey for secondary text
+$grey-color-light:    #E0E0E0 !default; // Light Grey for dividers
+$grey-color-dark:     #333333 !default; // Dark Grey for primary text
 $grey-900:            #212529;
 
 $white-color: #ffffff !default;
@@ -34,5 +34,5 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
-$code-bg-color-dark:      #2c3237 !default;
+$code-bg-color-light:     #F5F5F5; // Light grey for light mode code background
+$code-bg-color-dark:      #2D2D2D !default; // Dark blue-grey for dark mode code background
