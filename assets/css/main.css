@@ -6,18 +6,18 @@
  * Themes
  ******************************************************************************/
 :root {
-  --global-bg-color: #ffffff;
-  --global-code-bg-color: rgba(181, 9, 172, 0.05);
-  --global-text-color: #000000;
-  --global-text-color-light: #828282;
-  --global-theme-color: #2698BA;
-  --global-hover-color: #2698BA;
+  --global-bg-color: #F8F8F8;
+  --global-code-bg-color: #F5F5F5;
+  --global-text-color: #333333;
+  --global-text-color-light: #666666;
+  --global-theme-color: #4CAF50;
+  --global-hover-color: #388E3C;
   --global-hover-text-color: #ffffff;
-  --global-footer-bg-color: #1C1C1D;
-  --global-footer-text-color: #e8e8e8;
+  --global-footer-bg-color: #333333;
+  --global-footer-text-color: #E0E0E0;
   --global-footer-link-color: #ffffff;
-  --global-distill-app-color: #828282;
-  --global-divider-color: rgba(0,0,0,.1);
+  --global-distill-app-color: #666666;
+  --global-divider-color: #E0E0E0;
   --global-card-bg-color: #ffffff;
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
@@ -48,19 +48,19 @@
 }
 
 html[data-theme=dark] {
-  --global-bg-color: #1C1C1D;
-  --global-code-bg-color: #2c3237;
-  --global-text-color: #e8e8e8;
-  --global-text-color-light: #e8e8e8;
-  --global-theme-color: #2698BA;
-  --global-hover-color: #2698BA;
+  --global-bg-color: #121212;
+  --global-code-bg-color: #2D2D2D;
+  --global-text-color: #E0E0E0;
+  --global-text-color-light: #B0B0B0;
+  --global-theme-color: #4CAF50;
+  --global-hover-color: #388E3C;
   --global-hover-text-color: #ffffff;
-  --global-footer-bg-color: #e8e8e8;
-  --global-footer-text-color: #1C1C1D;
-  --global-footer-link-color: #000000;
-  --global-distill-app-color: #e8e8e8;
-  --global-divider-color: #424246;
-  --global-card-bg-color: #212529;
+  --global-footer-bg-color: #E0E0E0;
+  --global-footer-text-color: #333333;
+  --global-footer-link-color: #121212;
+  --global-distill-app-color: #E0E0E0;
+  --global-divider-color: #424242;
+  --global-card-bg-color: #1E1E1E;
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
   --global-tip-block-text: #215d42;
