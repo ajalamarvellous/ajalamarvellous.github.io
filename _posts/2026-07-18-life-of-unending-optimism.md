@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Live a Life of Unending Optimism"
-date: 2026-07-18 23:15:00
+date: 2026-07-18 18:00:00
 description: Essay 
 tags: personal 
 categories: life
-thumbnail: assets/img/5b7395f312e44665a6cc9e0ed6e1b703.jpg
+thumbnail: assets/img/IMG_0418.jpg
 ---
 
 > "How can I lose when I came here with nothing" 
