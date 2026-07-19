@@ -24,7 +24,6 @@ I currently work as an AI Engineer at a healthtech consulting company where I am
 
 I also have a Bachelors Degree in Pharmacy from University of Lagos, Nigeria and has previously worked as a pharmacist (at [University of Ilorin Teaching Hospital](https://www.uithilorin.org.ng) and [Bowen University Teaching Hospital, Ogbomoso](https://buth.edu.ng/))
 
-
 I am interested in research and my primary research interest lies in application of artificial intelligence in drug discovery specifically in virtual screening and de novo drug design. Currently, I am building a non profit, open science research organisation [Magami Open Sciences Initiative](https://magamios.org) focused on collaborating with African researchers working on drug discovery projects using AI, capacity building and development of opensource AI tools. If you are interested in initiating a collaboration with us or just chat about what we are doing, please shoot me an email to marvellous[at]magamios[dot]org.
 
 Beyond that, I'm involved in efforts generally geared towards global health, public health and application of AI in healthcare also. I co-organise the [Data Science for Health](https://ro-ya-cv4africa.github.io/homepage/event_workshop.html) workshop at the Deep Learning Indaba, 2024 in Dakar, Senegal and 2025 in Kigali, Rwanda.
