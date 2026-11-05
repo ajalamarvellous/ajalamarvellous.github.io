@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESCRIPTION}}">
+<meta name="author" content="{{AUTHOR}}">
+<link rel="canonical" href="{{CANONICAL}}">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESCRIPTION}}">
+<meta property="og:type" content="{{OGTYPE}}">
+<meta property="og:url" content="{{CANONICAL}}">
+<link rel="icon" href="{{FAVICON}}">
+<link rel="alternate" type="application/atom+xml" title="{{AUTHOR}} — writing" href="/feed.xml">
+<link rel="stylesheet" href="{{CSS}}">
+{{HEAD}}
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="masthead-id">
+      <h1 class="name"><a href="{{HOME}}">{{NAME}}</a></h1>
+      <p class="affiliation">{{AFFILIATION}}</p>
+    </div>
+    <p class="line">{{LINE}}</p>
+    {{NOW}}
+    <p class="links">
+      <a href="mailto:{{EMAIL}}">{{EMAIL}}</a>
+      {{LINKS}}
+    </p>
+    <div class="masthead-bar">
+      <nav class="nav" aria-label="Sections">
+        {{NAV}}
+      </nav>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">Dark</button>
+    </div>
+  </header>
+
+  <main id="main">
+{{CONTENT}}
+  </main>
+
+  <section class="elsewhere">
+    <h2 class="section-label">Elsewhere</h2>
+    <ul>{{ELSEWHERE}}</ul>
+  </section>
+
+  <footer class="footer">
+    <p>Last updated {{LAST_UPDATED}} &middot; <a href="/feed.xml">Feed</a> &middot; <a href="https://github.com/ajalamarvellous/ajalamarvellous.github.io">Source</a></p>
+  </footer>
+
+</div>
+
+<script>
+(function () {
+  var root = document.documentElement;
+
+  var stored = null;
+  try { stored = localStorage.getItem('theme'); } catch (e) {}
+  if (stored) root.setAttribute('data-theme', stored);
+
+  var toggle = document.getElementById('theme-toggle');
+  function current() {
+    var attr = root.getAttribute('data-theme');
+    if (attr) return attr;
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
+  function paint() { toggle.textContent = current() === 'dark' ? 'Light' : 'Dark'; }
+  paint();
+  toggle.addEventListener('click', function () {
+    var next = current() === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    try { localStorage.setItem('theme', next); } catch (e) {}
+    paint();
+  });
+
+  var papers = Array.prototype.slice.call(document.querySelectorAll('.paper'));
+  var chosen = papers.filter(function (p) { return p.getAttribute('data-selected') === 'true'; });
+  var filter = document.getElementById('filter');
+  if (filter) {
+    var showingAll = false;
+    function paintFilter() {
+      if (!chosen.length || chosen.length === papers.length) {
+        filter.textContent = papers.length + ' publications';
+        filter.disabled = true;
+        filter.setAttribute('aria-pressed', 'false');
+        return;
+      }
+      filter.disabled = false;
+      filter.textContent = showingAll ? 'Selected ' + chosen.length : 'All ' + papers.length;
+      filter.setAttribute('aria-pressed', showingAll ? 'true' : 'false');
+    }
+    filter.addEventListener('click', function () {
+      showingAll = !showingAll;
+      document.body.classList.toggle('show-all', showingAll);
+      paintFilter();
+    });
+    paintFilter();
+  }
+})();
+</script>
+</body>
+</html>

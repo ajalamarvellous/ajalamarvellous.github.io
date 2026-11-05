@@ -1,0 +1,23 @@
+[
+  {
+    "title": "DL-Framework",
+    "tagline": "A numpy-based deep learning framework",
+    "url": "https://github.com/ajalamarvellous/dl-framework",
+    "body": "![The DL-Framework command line interface](img/dl-framework.png)\n\nDL Framework is an educational library implementing core deep learning concepts using just numpy.\n\nIt is not a replacement for PyTorch, TensorFlow or Keras, but educational content that shows how deep learning concepts are implemented, with an API similar to Keras.\n\nImplemented:\n\n- [x] Feed-forward propagation\n- [x] Back propagation\n- [x] Convolution layer\n- [ ] RNN layer\n- [ ] GNN layer\n- [ ] Transformer block\n- [x] Activation layer — ReLU, Sigmoid, Tanh\n- [x] Training interface\n- [x] Dropout layer\n- [x] Early stopping\n- [x] Gradient descent",
+    "slug": "dl-framework"
+  },
+  {
+    "title": "DrugPro",
+    "tagline": "Sales forecasting and inventory management for pharmacies",
+    "url": "https://github.com/ajalamarvellous/drugpro",
+    "body": "DrugPro is a web-based supply chain analytics and forecasting tool designed with the pharmaceutical sector in mind.\n\n**What it does**\n\n- Surfaces analytics on best-selling and worst-performing products, sales trends over time, and comparison of sales trends across multiple products.\n- Provides product sales forecasts to estimate future demand and precise quantities to order, avoiding wastage and expiry.\n\n![Homepage of the web platform](img/drugpro-home.png)\n\n![Product trend over time](img/drugpro-trend.png)\n\n![Analysis of top selling products](img/drugpro-top.png)\n\n![Comparison of sales trends of two different products](img/drugpro-compare.png)",
+    "slug": "drugpro"
+  },
+  {
+    "title": "Bibleverse",
+    "tagline": "A web and command-line tool that suggests Bible verses based on feeling",
+    "url": "https://github.com/ajalamarvellous/bibleverse",
+    "body": "Bibleverse is a command-line and web tool that helps you find the Bible verses that speak most to your circumstance.\n\nReligious people, and most especially Christians, find solace in the written word about their faith. The Bible contains 66 books and many verses that talk about different things and circumstances. This tool is geared towards helping Christians find relevant verses directed towards their condition.\n\n![Command line interface of the Bibleverse tool asking for the user's name, how they are feeling, and the result of the query](img/bibleverse-cli.png)\n\n![Web interface of the Bibleverse tool asking for the user's name, how they are feeling, and the result of the query](img/bibleverse-web.png)\n\n**Getting started**\n\n1. Create a virtual environment\n\n   ```sh\n   python -m venv .venv\n   ```\n\n2. Activate it\n\n   ```sh\n   source .venv/bin/activate\n   ```\n\n3. Clone the repo\n\n   ```sh\n   git clone https://github.com/ajalamarvellous/bibleverse.git\n   ```\n\n4. Install the packages\n\n   ```sh\n   pip install -r requirements.txt\n   ```\n\n**Usage**\n\n```sh\npython src/cli.py          # command line\nstreamlit run src/web.py   # web service\n```",
+    "slug": "bibleverse"
+  }
+]

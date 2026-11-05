@@ -1,0 +1,78 @@
+{
+  "name": "Marvellous Àjàlá",
+  "full_name": "Marvellous Olúwamáyọ̀wá Àjàlá",
+  "affiliation": "Magami Open Sciences Initiative · Abuja, Nigeria",
+  "line": "Looking for new drugs with AI.",
+  "now": "AI engineer, Pharmacist and researcher.",
+  "email": "marve@ajalamarvellous.com",
+  "owner_names": [
+    "Marvellous Ajala",
+    "Ajala M.",
+    "Ajala, M.",
+    "Marvellous Àjàlá",
+    "Marvellous O. Ajala"
+  ],
+  "links": [
+    {
+      "label": "CV",
+      "url": "/pdf/CV-Marvellous-Ajala.pdf",
+      "external": false
+    },
+    {
+      "label": "Scholar",
+      "url": "https://scholar.google.com/citations?user=67T6um4AAAAJ&hl=en",
+      "external": true
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/ajalamarvellous",
+      "external": true
+    },
+    {
+      "label": "Magami",
+      "url": "https://magamios.org",
+      "external": true
+    }
+  ],
+  "elsewhere": [
+    {
+      "label": "News",
+      "url": "/news.html"
+    },
+    {
+      "label": "About",
+      "url": "/about.html"
+    },
+    {
+      "label": "Medium",
+      "url": "https://madeofajala.medium.com"
+    },
+    {
+      "label": "Substack",
+      "url": "https://the-continum.substack.com"
+    },
+    {
+      "label": "Hashnode",
+      "url": "https://madeofajala.hashnode.dev"
+    },
+    {
+      "label": "Mailing list",
+      "url": "/blog/2024/mailing-list.html"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com/shotsbymarve"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/marvellousajala"
+    },
+    {
+      "label": "Twitter",
+      "url": "https://twitter.com/madeofajala"
+    }
+  ],
+  "description": "Marvellous Àjàlá — AI engineer, pharmacist and researcher working on AI for drug discovery and open science in Africa.",
+  "last_updated": "2026-10-25",
+  "domain": "www.ajalamarvellous.com"
+}
