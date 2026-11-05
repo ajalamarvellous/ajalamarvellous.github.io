@@ -37,19 +37,27 @@ an image referenced by a post that no longer exists in `static/img/`.
 
 ## Deploy
 
-```bash
-./deploy.sh --dry-run       # preview
-./deploy.sh                 # build, sync into the repo, commit, push
+The canonical source of truth is the repository:
+
+```
+/Users/shdev/others/ajalamarvellous.github.io
 ```
 
-Set `REPO=` and `BRANCH=` if they differ from the defaults. The repo is a
-Jekyll site today; the script replaces its contents with `public/`. The old
-site stays in git history, and the first commit is a single `git revert`
-away from restoring it.
+It holds `content/`, `templates/`, `static/`, `build.py` and the rest.
+GitHub Actions builds it on every push to `master` and publishes to GitHub
+Pages, so deploying is just a commit and a push.
 
-Alternatively, keep the old repo and run the build in CI — copy `content/`,
-`templates/`, `static/`, `md.py`, `pdflite.py` and `build.py` into it and add
-a GitHub Actions job that publishes `public/` to Pages.
+```bash
+cd /Users/shdev/others/ajalamarvellous.github.io
+./deploy.sh --dry-run       # preview
+./deploy.sh                 # build, check, commit, push
+```
+
+If you would rather edit in this directory, its `deploy.sh` syncs the
+content across to the repository and then calls the repository's script.
+
+The old Jekyll site is preserved in git history, and at the tag
+`jekyll-backup` and the branch `backup/jekyll-site`.
 
 **Note:** internal links are root-relative (`/blog/`), so the site must be
 served from the domain root. That is the case for a GitHub Pages *user* site
