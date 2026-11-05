@@ -688,6 +688,8 @@ REDIRECTS = {
     "publications": "/bibliography.html",
     "about": "/about.html",
     "404": "/404.html",
+    # The CV lived under assets/ in the Jekyll site and gets shared around.
+    "assets/pdf/CV-Marvellous-Ajala.pdf": "/pdf/CV-Marvellous-Ajala.pdf",
 }
 
 
@@ -1107,7 +1109,10 @@ def build():
 
     # redirect stubs for the old Jekyll URLs
     for old, target in REDIRECTS.items():
-        write(f"{old}/index.html", build_redirect(old, target))
+        if os.path.splitext(old)[1]:
+            write(old, build_redirect(old, target))
+        else:
+            write(f"{old}/index.html", build_redirect(old, target))
 
     # posts
     for i, p in enumerate(posts):
