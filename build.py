@@ -1110,7 +1110,15 @@ def build():
     # redirect stubs for the old Jekyll URLs
     for old, target in REDIRECTS.items():
         if os.path.splitext(old)[1]:
-            write(old, build_redirect(old, target))
+            # A real file: serve it at the old path too. A redirect stub
+            # would be served with the wrong content type for the suffix.
+            src = os.path.join(PUBLIC, target.lstrip("/"))
+            if os.path.isfile(src):
+                dst = os.path.join(PUBLIC, old)
+                os.makedirs(os.path.dirname(dst), exist_ok=True)
+                shutil.copy2(src, dst)
+            else:
+                write(old, build_redirect(old, target))
         else:
             write(f"{old}/index.html", build_redirect(old, target))
 
